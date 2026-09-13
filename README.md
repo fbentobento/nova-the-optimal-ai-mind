@@ -26,7 +26,7 @@ For Codex, give the complete customer ZIP to the installing agent and say:
 
     Install Nova the Optimal AI Free as one complete plugin. Ask before replacing another governing Nova installation. Do not configure persistent data unless I separately request it.
 
-For manual Codex recovery, see [Start Here](START-HERE.md). For Claude-compatible hosts, see the [Claude installation guide](docs/INSTALL-CLAUDE.md). Start a new task after changing host catalog state and verify a real Nova invocation before calling the install active.
+For manual Codex recovery, see [Start Here](START-HERE.md). For Claude-compatible hosts, see the [Claude installation guide](docs/INSTALL-CLAUDE.md). Start a new task after changing host catalog state and verify a real Nova invocation before calling the install active. If you are building the customer package from a fresh clone of this source repository instead, follow the [source quickstart](docs/QUICKSTART-FROM-SOURCE.md).
 
 ## What this build proves
 
